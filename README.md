@@ -3,6 +3,8 @@ Solution for 2024 APBD task
 
 I used my own database [APBD 2024] set up in a local Docker Container instead of [db-******.pjwstk.edu.pl]
 
+I accidentally created this project with an obsolete version of .NET 5.0 SDK. Future projects will be created with .NET 8.0.
+
 I could not find script for database creation in Gakko class materials so I used my own:
 
 CREATE TABLE Animal (
